@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to Yuxin Zhou's Home Page!
 
-You can use the [editor on GitHub](https://github.com/Yuxin-Zhou/yuxin_zhou.github.com/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Self-Introduction
+I'm an undergraduate student,who has strong interest in mathematics, especially computational mathematics.
 
 ### Markdown
 
