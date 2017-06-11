@@ -1,4 +1,4 @@
-theme: jekyll-theme-tactile
+theme: jekyll-theme-dinky
 
 paginate: 5
 paginate_path: "page:num"
