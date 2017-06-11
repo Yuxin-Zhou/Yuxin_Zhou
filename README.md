@@ -6,9 +6,9 @@ I'm now an undergraduate student,who has strong interest in mathematics. Consequ
 
 
 ## Education Background
-- 2014.9-Now     East China Normal University,  mathematics and applied mathematics       
+- 2014.9 - Now     East China Normal University,  mathematics and applied mathematics       
   - **GPA:3.86**
-- 2017.1- 2017.5    University of California-Berkeley
+- 2017.1 - 2017.5    University of California-Berkeley
  , concurrent enrollment                     
   - **GPA:4.00**
 
