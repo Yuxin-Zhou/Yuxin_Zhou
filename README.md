@@ -30,6 +30,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ![image](https://github.com/Yuxin-Zhou/yuxin_zhou.com/blob/master/123.jpg)
 ![image](https://github.com/Yuxin-Zhou/yuxin_zhou.com/master/123.jpg)
 ![image](https://github.com/Yuxin-Zhou/yuxin_zhou.com/123.jpg)
+![image](https://github.com/Yuxin-Zhou/yuxin_zhou.com/raw/master/123.jpg)
 
 ### Jekyll Themes
 
