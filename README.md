@@ -1,4 +1,5 @@
-## Welcome to Yuxin Zhou's Home Page!     ![image](https://github.com/Yuxin-Zhou/yuxin_zhou.com/raw/master/WechatIMG8.jpeg
+## Welcome to Yuxin Zhou's Home Page!     
+![image](https://github.com/Yuxin-Zhou/yuxin_zhou.com/raw/master/WechatIMG8.jpeg
  
 ### Self-Introduction
 
