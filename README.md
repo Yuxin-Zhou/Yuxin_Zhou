@@ -10,8 +10,12 @@ I'm an undergraduate student,who has strong interest in mathematics, especially 
 {% endfor %}
 
 ```markdown
-Syntax highlighted code block
+Education Background
+    2014.9-Now     East China Normal University       mathematics and applied mathematics
+    2017.1-2017.5  University of California-Berkeley  concurrent enrollment
 
+Research Experience
+    2017.5-2017.8  University of Alberta    Research Assistant
 # Header 1
 ## Header 2
 ### Header 3
