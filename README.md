@@ -1,5 +1,5 @@
 ## Welcome to Yuxin Zhou's Home Page!     
-![image](https://github.com/Yuxin-Zhou/yuxin_zhou.com/raw/master/111.jpeg)
+![image](https://github.com/Yuxin-Zhou/yuxin_zhou.com/raw/master/111.png)
 <img src="./xxx.png" width="30" height="20" alt="WechatIMG8" align=center />
  
 ### Self-Introduction
