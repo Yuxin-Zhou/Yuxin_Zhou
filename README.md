@@ -1,5 +1,5 @@
-## Welcome to Yuxin Zhou's Home Page!
-
+## Welcome to Yuxin Zhou's Home Page!     ![image](https://github.com/Yuxin-Zhou/yuxin_zhou.com/raw/master/WechatIMG8.jpeg
+ 
 ### Self-Introduction
 
 I'm now an undergraduate student,who has strong interest in mathematics. Consequently, I wish to pursue graduate studies in mathematics, especially computational mathematics.
