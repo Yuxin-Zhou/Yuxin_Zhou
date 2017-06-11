@@ -20,6 +20,7 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
+![/Users/yuxin_zhou/Downloads/123.jpg](img_url)
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
