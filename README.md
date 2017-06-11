@@ -1,6 +1,6 @@
 ## Welcome to Yuxin Zhou's Home Page!
 
-Self-Introduction
+###Self-Introduction
 I'm an undergraduate student,who has strong interest in mathematics, especially computational mathematics.
 
 ### Markdown
