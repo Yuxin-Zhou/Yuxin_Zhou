@@ -10,11 +10,11 @@ I'm now an undergraduate student,who has strong interest in mathematics. Consequ
  mathematics and applied mathematics       
   - **GPA:3.86**
 - 2017.1-2017.5  University of California-Berkeley
- concurrent enrollment                     
+ , concurrent enrollment                     
   - **GPA:4.00**
 
 ## Research Experience
-- 2017.5-2017.8  University of Alberta    Research Assistant
+- 2017.5-2017.8  University of Alberta,     Research Assistant
   - Project: Ocean Data Analysis from Numerical Simulation Models
       - Overview: Developing computational scripts written in Matlab to work with the output from the eddy-permitting numerical oceal models to analyze and visualize the key processes and their variability.
 
