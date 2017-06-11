@@ -16,11 +16,11 @@ Syntax highlighted code block
 
 - Bulleted
 - List
-
+https://github.com/Yuxin-Zhou/yuxin_zhou.com/blob/master/README.md
 1. Numbered
 2. List
 
-![image](https://github.com/yuxin_zhou.com/123.jpg)
+![image](https://github.com/Yuxin-Zhou/yuxin_zhou.com/123.jpg)
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
