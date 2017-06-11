@@ -9,7 +9,6 @@ I'm now an undergraduate student,who has strong interest in mathematics. Consequ
 </a>
 {% endfor %}
 
-```markdown
 # Education Background
 
     2014.9-Now     East China Normal University       
@@ -34,6 +33,9 @@ I'm now an undergraduate student,who has strong interest in mathematics. Consequ
 
 
 
+
+
+```markdown
 
 ```
 
