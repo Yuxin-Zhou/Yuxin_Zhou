@@ -11,11 +11,17 @@ I'm an undergraduate student,who has strong interest in mathematics, especially 
 
 ```markdown
 Education Background
-    2014.9-Now     East China Normal University       mathematics and applied mathematics
-    2017.1-2017.5  University of California-Berkeley  concurrent enrollment
+    2014.9-Now     East China Normal University       
+          mathematics and applied mathematics   GPA:3.86
+    2017.1-2017.5  University of California-Berkeley
+          concurrent enrollment                 GPA:4.00
 
 Research Experience
     2017.5-2017.8  University of Alberta    Research Assistant
+   Project: Ocean Data Analysis from Numerical Simulation Models
+ * plot the mean temperature and salinity on some specific sections
+ * estimate the volume and fresh water transport across each section as a timeseries
+ and the determine the long term average.
 # Header 1
 ## Header 2
 ### Header 3
