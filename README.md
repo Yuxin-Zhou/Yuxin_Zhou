@@ -16,11 +16,10 @@ I'm now an undergraduate student,who has strong interest in mathematics. Consequ
 ## Research Experience
 - 2017.5-2017.8  University of Alberta,     Research Assistant
   - Project: Ocean Data Analysis from Numerical Simulation Models
-      - Overview: Developing computational scripts written in Matlab to work with the output from the eddy-permitting numerical oceal models to analyze and visualize the key processes and their variability.
+      - Overview: Developing computational scripts written in Matlab to work with the output from the eddy-permitting numerical ocean models to analyze and visualize the key processes and their variability.
 
-        - plot the mean temperature and salinity on some specific sections
-        - estimate the volume and fresh water transport across each section as a timeseries
- and the determine the long term average.
+        - plot the mean annual 2014-2016 temperature and salinity on some specific sections;and also velocity perpendicular to the section, which the data comes from the eddy-permitting numerical ocean models in different resolutions.
+        - estimate the volume and fresh water transport across each section as a timeseries with both 5 day variability and monthly running mean and then determine the long term average.
 
 ## Computational skills
 - Algorithm: Matlab, C++, Phython
