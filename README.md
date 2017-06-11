@@ -20,7 +20,7 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-![image](yuxin_zhou.com/123.jpg)
+![image](https://github.com/yuxin_zhou.com/123.jpg)
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
