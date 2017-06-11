@@ -4,12 +4,21 @@
 
 I'm an undergraduate student,who has strong interest in mathematics, especially computational mathematics.
 
+{% for post in paginator.posts %}
+    <a href="{{ post.url }}">{{ post.title }}
+</a>
+{% endfor %}
+
 ```markdown
 Syntax highlighted code block
 
 # Header 1
 ## Header 2
 ### Header 3
+
+{% if paginator.total_pages > 1 %}
+<!-- coding -->
+{% endif %}
 
 - Bulleted
 - List
