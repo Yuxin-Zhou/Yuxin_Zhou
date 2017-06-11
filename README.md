@@ -22,6 +22,7 @@ https://github.com/Yuxin-Zhou/yuxin_zhou.com/blob/master/README.md
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+yuxin_zhou.com/123.jpg
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
