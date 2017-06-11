@@ -22,6 +22,9 @@ I'm now an undergraduate student,who has strong interest in mathematics. Consequ
         - estimate the volume and fresh water transport across each section as a timeseries
  and the determine the long term average.
 
+## Computational skills
+- Algorithm: Matlab, C++, Phython
+- Operating System: Windows, Linux
 
 
 
