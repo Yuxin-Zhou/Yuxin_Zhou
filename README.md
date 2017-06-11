@@ -2,7 +2,7 @@
 
 ### Self-Introduction
 
-I'm an undergraduate student,who has strong interest in mathematics, especially computational mathematics.
+I'm now an undergraduate student,who has strong interest in mathematics. Consequently, I wish to pursue graduate studies in mathematics, especially computational mathematics.
 
 {% for post in paginator.posts %}
     <a href="{{ post.url }}">{{ post.title }}
