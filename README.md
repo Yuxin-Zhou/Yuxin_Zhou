@@ -18,8 +18,8 @@ I'm now an undergraduate student,who has strong interest in mathematics. Consequ
   - Project: Ocean Data Analysis from Numerical Simulation Models
       - Overview: Developing computational scripts written in Matlab to work with the output from the eddy-permitting numerical oceal models to analyze and visualize the key processes and their variability.
 
-    * plot the mean temperature and salinity on some specific sections
-    * estimate the volume and fresh water transport across each section as a timeseries
+        - plot the mean temperature and salinity on some specific sections
+        - estimate the volume and fresh water transport across each section as a timeseries
  and the determine the long term average.
 
 
