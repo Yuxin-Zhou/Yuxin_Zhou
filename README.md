@@ -1,10 +1,10 @@
 ## Welcome to Yuxin Zhou's Home Page!     
-![image](https://github.com/Yuxin-Zhou/yuxin_zhou.com/raw/master/111.png)
+![image](https://github.com/Yuxin-Zhou/yuxin_zhou.com/raw/master/111.png)  ### Self-Introduction
 
- 
-### Self-Introduction
-
-I'm now an undergraduate student,who has strong interest in mathematics. Consequently, I wish to pursue graduate studies in mathematics, especially computational mathematics.
+                                                                           I'm now an undergraduate student,who has strong             
+                                                                           interest in mathematics. Consequently, I wish to 
+                                                                           pursue graduate studies in mathematics,
+                                                                           especially computational mathematics.
 
 {% for post in paginator.posts %}
     <a href="{{ post.url }}">{{ post.title }}
